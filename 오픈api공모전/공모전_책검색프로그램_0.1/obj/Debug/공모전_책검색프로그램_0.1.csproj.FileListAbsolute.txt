@@ -1,0 +1,13 @@
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\bin\Debug\공모전_책검색프로그램_0.1.exe.config
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\bin\Debug\공모전_책검색프로그램_0.1.exe
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\bin\Debug\공모전_책검색프로그램_0.1.pdb
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0.1.csprojAssemblyReference.cache
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0._1.Form1.resources
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0._1.Properties.Resources.resources
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0.1.csproj.GenerateResource.cache
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0.1.csproj.CoreCompileInputs.cache
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0.1.exe
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0.1.pdb
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0._1.MainForm.resources
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0._1.AdBook.resources
+C:\Users\KJS\source\repos\공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1\obj\Debug\공모전_책검색프로그램_0._1.UserRegister.resources

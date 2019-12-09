@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "공모전_책검색프로그램_0.1", "공모전_책검색프로그램_0.1\공모전_책검색프로그램_0.1.csproj", "{3149AACC-31C4-4BBD-BF6E-76B5F09677AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3149AACC-31C4-4BBD-BF6E-76B5F09677AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3149AACC-31C4-4BBD-BF6E-76B5F09677AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3149AACC-31C4-4BBD-BF6E-76B5F09677AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3149AACC-31C4-4BBD-BF6E-76B5F09677AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F2A774-9654-4849-BBC5-6AFB79428AA5}
+	EndGlobalSection
+EndGlobal
