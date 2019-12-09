@@ -1,2 +1,2 @@
 # BitOpenapiTest3
-openAPI 프로젝트 인터파크 API, Naver 검색 API를 사용한 맞춤책 추천프로그램
+Winform을 이용한 사용자맞춤 책추천 프로그램의 개발 구현
